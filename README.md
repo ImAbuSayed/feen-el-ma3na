@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/feen-el-ma3na/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Secure Licensing Rights for Feen El Ma3na](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Apply for Music License: Feen El Ma3na](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
